@@ -1,5 +1,5 @@
-# awesome-custom-vps
-List of guides on how to install custom OS on your VPS
+# custom-vps
+List of guides on how to install custom OS on your VPS and some other wild things
 
 ## FreeBSD
 

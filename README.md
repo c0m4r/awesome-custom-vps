@@ -16,5 +16,4 @@ List of guides on how to install custom OS on your VPS and some other wild thing
 
 ## IPv6-only related
 
-* [IPv6-only + CloudFlare-only nginx](https://gist.github.com/c0m4r/16869bcdb7ccaeb080cc7040691d44e1)
 * [Docker inside the IPv6-only host](https://gist.github.com/c0m4r/5497c6cbd7434e0cdf8dbd35060f724b)

@@ -25,4 +25,4 @@ List of my guides on how to install custom OS on your VPS and some other wild th
 
 ## Funding
 
-If you found this list helpful, please consider [making donation](https://en.wosp.org.pl/fundacja/jak-wspierac-wosp/wesprzyj-online)https://en.wosp.org.pl/fundacja/jak-wspierac-wosp/wesprzyj-online to a charity on my behalf. Thank you.
+If you found this list helpful, please consider [making donation](https://en.wosp.org.pl/fundacja/jak-wspierac-wosp/wesprzyj-online) to a charity on my behalf. Thank you.

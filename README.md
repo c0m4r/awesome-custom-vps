@@ -19,6 +19,10 @@ List of my guides on how to install custom OS on your VPS and some other wild th
 * [Void Linux installation on OVH VPS](https://gist.github.com/c0m4r/7432c2c3acf29ddd280f82c8a0cce817)
 * [Void Linux installation on Hetzner Cloud VPS (Arm64/IPv6-only)](https://gist.github.com/c0m4r/8bdd2e6925fc78bffff78af83778c4e1)
 
+## Gentoo
+
+* [Gentoo ARM64 IPv6 quick-ish setup on Hetzner Cloud](https://gist.github.com/c0m4r/0eaf45b66623f0885232f5e07656c14d)
+
 ## VyOS
 
 * [VyOS installation on Hetzner Cloud VPS](https://gist.github.com/c0m4r/13baeca67156ab88d3168e3db7cc26da)
